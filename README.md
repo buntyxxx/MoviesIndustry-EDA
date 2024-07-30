@@ -176,6 +176,8 @@ theaters_and_awards = theaters_df.join(awards_df, how='inner', on=['title', 'yea
 The joining only leaves us with 66 movies upon which to draw conclusions.  That is not ideal, but two studios - Disney and Warner Bros. - stand out among the rest as they have 22 and 15 of the movies in this dataframe, respectively. This is more than double any other studio.  We then compare 
 their average domestic gross per theater and win rate to see which of the two has performed better.
 
+**Question 8 Conclusion:** Our Company should look towards Disney based upon domestic gross per theater and win rate. This means that Our Company should on average target for a movie to be in a maxium of 3818 theaters at its peak. 
+
 
 ---
 
@@ -195,9 +197,6 @@ Copyright (c) 2024 Buntyxxx
     <a href="area51organisation@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p> 
 
-
-
-**Question 8 Conclusion:** Our Company should look towards Disney based upon domestic gross per theater and win rate. This means that Our Company should on average target for a movie to be in a maxium of 3818 theaters at its peak. 
 
 
 
