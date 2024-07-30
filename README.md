@@ -177,6 +177,26 @@ The joining only leaves us with 66 movies upon which to draw conclusions.  That 
 their average domestic gross per theater and win rate to see which of the two has performed better.
 
 
+---
+
+## Licence 📜
+
+You may use this tutorial freely at your own risk. See [LICENSE]
+
+Copyright (c) 2024 Buntyxxx
+
+---
+
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/krishnasai-chenchala-812a06128/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="area51organisation@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p> 
+
+
+
 **Question 8 Conclusion:** Our Company should look towards Disney based upon domestic gross per theater and win rate. This means that Our Company should on average target for a movie to be in a maxium of 3818 theaters at its peak. 
 
 
